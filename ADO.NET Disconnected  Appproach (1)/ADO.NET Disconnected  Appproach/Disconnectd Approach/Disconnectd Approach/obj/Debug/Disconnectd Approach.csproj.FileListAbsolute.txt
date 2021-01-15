@@ -1,0 +1,40 @@
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\bin\Debug\Disconnectd Approach.exe.config
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\bin\Debug\Disconnectd Approach.exe
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\bin\Debug\Disconnectd Approach.pdb
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.csprojResolveAssemblyReference.cache
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Form1.resources
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Order.resources
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Properties.Resources.resources
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.csproj.GenerateResource.Cache
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.exe
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.pdb
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Customer.resources
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Order_Detail.resources
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Product.resources
+D:\ACOMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\bin\Debug\Disconnectd Approach.exe.config
+D:\ACOMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.exe
+D:\ACOMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.pdb
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Productdetail.resources
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Reporting.resources
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\RdlCompile.cache
+D:\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\RdlCompile.compiled
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\bin\Debug\Disconnectd Approach.exe.config
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.exe
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.pdb
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\bin\Debug\Disconnectd Approach.exe
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\bin\Debug\Disconnectd Approach.pdb
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.csprojResolveAssemblyReference.cache
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Customer.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Form1.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Order.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Order_Detail.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Product.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Productdetail.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Properties.Resources.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Reporting.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd Approach.csproj.GenerateResource.Cache
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\RdlCompile.cache
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\RdlCompile.compiled
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Order_status.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Status_Statement.resources
+D:\Start\COMP SCI LAB\NED CLASSES\ADO.NET Disconnected  Appproach\Disconnectd Approach\Disconnectd Approach\obj\Debug\Disconnectd_Approach.Status_Report.resources
